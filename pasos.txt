@@ -1,0 +1,16 @@
+npm init -y
+npm i --save-dev hardhat
+npx hardhat init
+npm install --save-dev typescript
+npm install --save-dev ts-node
+npm install @nomicfoundation/hardhat-toolbox
+npx hardhat compile
+npx hardhat vars set SEPOLIA_PRIVATE_KEY
+c36e6a7f3100d735c0b7a9a16afc8eca91df5ffba180f30819f8ccc986063aae
+npx hardhat vars set ETHERSCAN_API_KEY
+DXU71AXZI253BUAQEWBJPW23W2DVXNEKJ7
+npx hardhat vars set ALCHEMY_API_KEY
+hLPaH0Jac-z6VVC7ihHLgxEO_aff0q43
+npx hardhat ignition deploy ignition/modules/TipJar.ts --network sepolia --verify
+
+-- falta el readme y la dapp
