@@ -24,7 +24,7 @@ TipJar es un contrato inteligente que funciona como una "jarrita de propinas" di
 
 ### Frontend (Angular)
 - **📁 `frontend/`** - Aplicación Angular para interactuar con el contrato
-- **📄 `frontend/src/utils/ethereum.js`** - Utilidades para interacción con MetaMask y el contrato
+- **📄 `frontend/src/app/services/tip-jar.service.ts`** - Service Angular para interacción con MetaMask y el contrato
 
 ## 🔧 Características del Contrato
 
