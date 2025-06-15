@@ -1,0 +1,58 @@
+{
+  "hash": "133f33a2",
+  "configHash": "733a3b4c",
+  "lockfileHash": "1fc4a70d",
+  "browserHash": "10860669",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "bbbd85fe",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "a6b9025f",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "566d8021",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "638ead1b",
+      "needsInterop": false
+    },
+    "@metamask/detect-provider": {
+      "src": "../../../../../node_modules/@metamask/detect-provider/dist/index.js",
+      "file": "@metamask_detect-provider.js",
+      "fileHash": "e56c93db",
+      "needsInterop": true
+    },
+    "ethers": {
+      "src": "../../../../../node_modules/ethers/lib.esm/index.js",
+      "file": "ethers.js",
+      "fileHash": "4d143c9e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BQD5GKJS": {
+      "file": "chunk-BQD5GKJS.js"
+    },
+    "chunk-U3Q57IUN": {
+      "file": "chunk-U3Q57IUN.js"
+    },
+    "chunk-TRRETRYB": {
+      "file": "chunk-TRRETRYB.js"
+    },
+    "chunk-DZ7BV6I4": {
+      "file": "chunk-DZ7BV6I4.js"
+    }
+  }
+}

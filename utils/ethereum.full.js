@@ -2,6 +2,7 @@
 import { ethers } from 'ethers';
 import { CONTRACT_ADDRESS, CONTRACT_ABI } from '../contract/config';
 
+
 // Check if MetaMask is installed
 // This function verifies if the MetaMask extension is available in the browser.
 export const isMetaMaskInstalled = () => {

@@ -1,7 +1,6 @@
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
-
 describe("TipJar", function () {
   let TipJar;
   let tipJar;

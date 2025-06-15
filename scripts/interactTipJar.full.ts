@@ -2,6 +2,7 @@ import { ethers } from "ethers";
 import { vars } from "hardhat/config";
 import tipJarABI from "../artifacts/contracts/TipJar.sol/TipJar.json";
 
+
 // command to run this script:
 // npx hardhat run scripts/interactTipJar.ts --network sepolia
 // or
