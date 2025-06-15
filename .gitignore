@@ -14,7 +14,7 @@ node_modules
 /coverage.json
 
 # Hardhat Ignition default folder for deployments against a local node
-ignition/deployments/chain-31337
+ignition/deployments/
 
 # Compiled output
 frontend/dist
@@ -55,3 +55,8 @@ frontend/typings
 # System files
 frontend/.DS_Store
 frontend/Thumbs.db
+
+#Otros
+scripts/interactTipJar.full.ts
+test/tipJar.full.test.js
+utils/ethereum.full.js
